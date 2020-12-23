@@ -13,6 +13,3 @@ Consists of annotations in COCO format as expected by PubLayNet Dataset
 2. Run RealTest.ipynb
 3. Run train_frcnn.ipynb
 
-
-## Author
-[ABHIJOY SARKAR](https://github.com/acebot712)
